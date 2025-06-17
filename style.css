@@ -242,6 +242,15 @@ header {
   margin-left: 4px;
 }
 
+.art-video {
+  width: 100%;
+  height: auto;
+  border-radius: 0.8rem;
+  margin-top: 10px;
+  box-shadow: var(--box-shadow);
+  object-fit: cover;
+}
+
 .footer {
   background: var(--main-color);
   color: var(--bg-color);
